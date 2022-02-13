@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Debug\Assignment2_Graphics.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Debug\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Debug\light_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Debug\skybox_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Debug\skybox_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

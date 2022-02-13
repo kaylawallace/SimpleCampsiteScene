@@ -1,0 +1,5 @@
+C:\Users\Kayla\source\repos\Assignment2_Graphics\Assignment2_Graphics\Debug\Assignment2_Graphics.vcxproj.CopyComplete
+C:\Users\Kayla\Documents\CGTMasters\CMP502\Assignment2_Graphics\Assignment2_Graphics\Debug\Assignment2_Graphics.vcxproj.CopyComplete
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2\Assignment2_Graphics1\Assignment2_Graphics\Debug\Assignment2_Graphics.vcxproj.CopyComplete
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2\source\Assignment2_Graphics1\Assignment2_Graphics\Debug\Assignment2_Graphics.vcxproj.CopyComplete
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Debug\Assignment2_Graphics.vcxproj.CopyComplete

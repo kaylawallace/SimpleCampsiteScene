@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Game.cpp(155,25): warning C4456: declaration of 'delta' hides previous local declaration
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Game.cpp(134,11): message : see declaration of 'delta'
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Game.cpp(224,41): warning C4459: declaration of 'ROT_SPEED' hides global declaration
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Game.cpp(21,21): message : see declaration of '`anonymous-namespace'::ROT_SPEED'
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Game.cpp(134,11): warning C4189: 'delta': local variable is initialized but not referenced
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Game.cpp(135,10): warning C4189: 'time': local variable is initialized but not referenced
+C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Assignment2_Graphics\Game.cpp(302,10): warning C4189: 'device': local variable is initialized but not referenced
+  Assignment2_Graphics.vcxproj -> C:\Users\Kayla\Documents\CGTMasters\CMP502\2101726_CMP502_Assmt2_KW\source\Assignment2_Graphics_SourceFiles\Debug\Assignment2_Graphics.exe
